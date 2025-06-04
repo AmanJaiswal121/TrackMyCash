@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AmanJaiswal121/TrackMyCash",
+  "homepage": "https://amanjaiswal121.github.io/TrackMyCash",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
