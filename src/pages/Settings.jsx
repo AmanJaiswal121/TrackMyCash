@@ -10,7 +10,7 @@ const SettingsPage = () => {
     const { theme, setTheme, isDark } = useTheme();
     const [userData, setUserData] = useState({
         name: 'Aman Jaiswal',
-        email: 'amanjswl0000@gmail.com',
+        email: 'amanjswl000@gmail.com',
         currency: 'INR',
         dateFormat: 'DD/MM/YYYY',
     });
