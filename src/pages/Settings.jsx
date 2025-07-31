@@ -9,8 +9,8 @@ import Select from '../components/common/Select';
 const SettingsPage = () => {
     const { theme, setTheme, isDark } = useTheme();
     const [userData, setUserData] = useState({
-        name: 'John Doe',
-        email: 'john.doe@example.com',
+        name: 'Aman Jaiswal',
+        email: 'amanjswl0000@gmail.com',
         currency: 'INR',
         dateFormat: 'DD/MM/YYYY',
     });
